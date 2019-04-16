@@ -1,0 +1,24 @@
+{
+  "status":"0",
+  "msg":"",
+  "result":[
+      {
+        "productId":"10001",
+        "productName":"小米",
+        "productPrice":2499,
+        "productImg":"1.jpg"
+      },
+    {
+      "productId":"10002",
+      "productName":"音响",
+      "productPrice":299,
+      "productImg":"2.jpg"
+    },
+    {
+      "productId":"10003",
+      "productName":"耳机",
+      "productPrice":99,
+      "productImg":"3.jpg"
+    }
+  ]
+}
